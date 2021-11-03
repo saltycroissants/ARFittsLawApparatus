@@ -18,7 +18,7 @@ developed by Eunji Lee in 2021 Nov.
 | TargetTime | String| N/A | |
 | PlayerID | Int | 1-8 | |
 | TargetID | Int | 1-37 | decided based on angle (theta1 & theta2) |
-| Distance | Int | 0,1 | |
-| DeviceID | Int | 0,1 | |
+| Distance | Int | 0,1 | 0: Close, 1:Far |
+| DeviceID | Int | 0,1 | 0: iphone, 1: ipad |
 
 

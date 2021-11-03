@@ -14,10 +14,10 @@ developed by Eunji Lee in 2021 Nov.
 
 | Variable Name | Data Type | Range | Info |  
 |----|----|----|----|
-| StartTime | String | | |
-| TargetTime | String| | |
+| StartTime | String | N/A | |
+| TargetTime | String| N/A | |
 | PlayerID | Int | 1-8 | |
-| TargetID | Int | 1-37 | |
+| TargetID | Int | 1-37 | decided based on angle (theta1 & theta2) |
 | Distance | Int | 0,1 | |
 | DeviceID | Int | 0,1 | |
 
